@@ -1,8 +1,9 @@
-package com.ty.resumebulider.student;
+package com.ty.resumebulider;
 
 import java.time.LocalDate;
 
 import com.ty.resumebulider.resume.PersonalInfomation;
+import com.ty.resumebulider.student.Student;
 import com.ty.resumebulider.teacher.Teacher;
 
 public class ResumeBuliderApp {
